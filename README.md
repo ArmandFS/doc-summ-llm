@@ -1,7 +1,7 @@
 # 🤖 Chat with PDF locally using Ollama + LangChain 🤖 
 #### Original Project Idea by @Tony Kimpkemboi on Youtube
 
-This project is demonstrates an implemention of a local RAG (Retrieval Augmented Generation) that lets you chat with your PDF documents using Ollama and LangChain. For experimentation purposes, this project is tested in a Jupyter Notebook Environment. 
+This project demonstrates an implemention of a local RAG (Retrieval Augmented Generation) that lets you chat with your PDF documents using Ollama and LangChain. For experimentation purposes, this project is tested in a Jupyter Notebook Environment. 
 
 ## ✨ Features ✨
 
