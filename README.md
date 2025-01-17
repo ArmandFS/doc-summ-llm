@@ -9,7 +9,7 @@ This project demonstrates an implemention of a local RAG (Retrieval Augmented Ge
 - 📄 PDF processing with intelligent chunking
 - 🧠 Multi-query retrieval for better context understanding
 - 🎯 Advanced RAG implementation using LangChain
-- 📓 Jupyter notebook for experimentation
+- 📓 Jupyter notebook for personal experimentation
 
 
 ## 🚀 Implementation 🚀
